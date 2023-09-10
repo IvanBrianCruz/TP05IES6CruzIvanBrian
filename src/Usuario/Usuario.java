@@ -24,7 +24,7 @@ public class Usuario {
 	    this.nombre = nombre;
 	  }
 	  
-	  // ejercicio 9 *******************************/
+	  // ejercicio 9 ********************************/
 	  
 	 
 	    private String nombres;
