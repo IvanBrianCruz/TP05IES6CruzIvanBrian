@@ -1,8 +1,8 @@
-buenas tardes profe subi todo en un projecto y cada paque problema tenia un paquete pero me lo subio como carpetas igualmente dejo captara que se respeta la estructura de trabajo
+buenas tardes profe subi todo en un projecto y cada paque problema tenia un paquete pero me lo subio como carpetas igualmente dejo captura que se respeto la estructura de trabajo
 
-link de mi repositorio : https://github.com/IvanBrianCruz/grupo1.git
+link de mi repositorio del curoso : https://github.com/IvanBrianCruz/grupo1.git
 
-1) para descargar todos los paquetes use "npm install" ni no le va a funcionar 
+1) para descargar todos los paquetes use "npm install" sin los paquetes no va a funcionar 
 
 2) use "npm start" para iniciar el servidor local 
 
